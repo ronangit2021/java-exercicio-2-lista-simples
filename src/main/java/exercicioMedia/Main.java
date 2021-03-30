@@ -43,6 +43,8 @@ public class Main {
 				condicao = ler.nextInt();
 				testa=-1;
 			}	
+			
+			
 			testa++;
 			
 		}
